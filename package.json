@@ -1,0 +1,23 @@
+{
+  "name": "mvi-bot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delafrons/MVI-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delafrons/MVI-bot/issues"
+  },
+  "homepage": "https://github.com/Delafrons/MVI-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
